@@ -33,6 +33,15 @@ Below let’s include some of the most important Azure Security services, usuall
 
 ## Azure Monitoring Services
 
-This next diagram add a layer with Azure monitoring, SIEM (Microsoft Sentinel), SOAR (Incident response automation), CSPM (Microsoft Defender for Cloud) capabilities that works totally integrated with Azure resources and Azure Security services.
+This next diagram adds a layer with Azure monitoring, SIEM (Microsoft Sentinel), SOAR (Incident response automation), CSPM (Microsoft Defender for Cloud) capabilities that work totally integrated with Azure resources and Azure Security services.
 
+![image](https://github.com/rudneir2/WAF20-Security-Draft-V0/assets/97529152/7e825fdb-4f12-446d-8869-7775341cf5b5)
+
+## Microsoft 365 Defender and Purview Compliance integrated with Azure Security (that is a PLUS that might be added to WAF Security recommendations, part of Segments sections)
+
+Lastly, this next diagram adds the Microsoft 365 Defender solutions and Purview Compliance solutions that may be used in the pre-breach and post-breach phases, protecting the entire IT environment, including on-premises, Azure environment, and Office 365resources, still fully integrated with Azure security services.
+
+
+
+In the next sections, we will detail the services involved in each WAF segment, and how it works to protect, prevent, and identify threats based on a real common IT environment.
 
