@@ -1,6 +1,6 @@
 # WAF20 Security Draft V0
 
-## Introduction to IT common environment
+## Introduction to IT common environment and Microsoft Security services considered in WAF Security recommendations
 
 Microsoft Well-Architected Framework helps you understand how to apply the best practices in using Microsoft Security services in your IT environment based on Recommendations in different segments such as Security patterns, Application Secrets, Encryption, “Identity and Access”, Networking, Segmentation and “Test and validation”.
 There are also other approaches that cover Microsoft security and its best practices, so it is important to understand what the main objective of WAF is.
@@ -29,4 +29,7 @@ It also includes some of the threat actors that may start an attack, such as rem
 Before we dive into details for each WAF recommendation, let’s understand how different security services may be grouped so you have a better understanding of how to apply them according to WAF recommendations in different segments.
 Below let’s include some of the most important Azure Security services, usually considered in the pre-breach phase, to protect and prevent some types of attacks. The diagram below is just a simple example, that will be detailed in each WAF recommendation segment.
 
+![image](https://github.com/rudneir2/WAF20-Security-Draft-V0/assets/97529152/e559b323-736e-458c-8836-5c971874c550)
+
+## Azure Monitoring Services
 
