@@ -33,3 +33,6 @@ Below let’s include some of the most important Azure Security services, usuall
 
 ## Azure Monitoring Services
 
+This next diagram add a layer with Azure monitoring, SIEM (Microsoft Sentinel), SOAR (Incident response automation), CSPM (Microsoft Defender for Cloud) capabilities that works totally integrated with Azure resources and Azure Security services.
+
+
