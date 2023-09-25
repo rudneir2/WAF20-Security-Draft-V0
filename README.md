@@ -37,11 +37,12 @@ This next diagram adds a layer with Azure monitoring, SIEM (Microsoft Sentinel),
 
 ![image](https://github.com/rudneir2/WAF20-Security-Draft-V0/assets/97529152/7e825fdb-4f12-446d-8869-7775341cf5b5)
 
-## Microsoft 365 Defender and Purview Compliance integrated with Azure Security (that is a PLUS that might be added to WAF Security recommendations, part of Segments sections)
+## Microsoft 365 Defender and Purview Compliance integrated with Azure Security 
+### * that is a PLUS that might be added to WAF Security recommendations, part of the Segments sections
 
 Lastly, this next diagram adds the Microsoft 365 Defender solutions and Purview Compliance solutions that may be used in the pre-breach and post-breach phases, protecting the entire IT environment, including on-premises, Azure environment, and Office 365resources, still fully integrated with Azure security services.
 
-![image](https://github.com/rudneir2/WAF20-Security-Draft-V0/assets/97529152/922af7cf-9bf9-4db2-9e1f-aab372708e9d)
+
 
 In the next sections, we will detail the services involved in each WAF segment, and how it works to protect, prevent, and identify threats based on a real common IT environment.
 
