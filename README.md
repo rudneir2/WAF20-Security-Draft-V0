@@ -46,3 +46,5 @@ Lastly, this next diagram adds the Microsoft 365 Defender solutions and Purview 
 
 In the next sections, we will detail the services involved in each WAF segment, and how it works to protect, prevent, and identify threats based on a real common IT environment.
 
+**Here we would come with links for each WAF segment section**
+
